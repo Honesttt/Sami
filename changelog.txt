@@ -1,5 +1,6 @@
 ☆ = Developer Favorite
 SamiOS Changelog
+SamiOS Github Project: https://github.com/Honesttt/SamiOS-Collection.
 
 0.0.1 Started & Released: 4/16/2020
 First Version created in Python 3.8.2.
@@ -48,3 +49,10 @@ Will update in the future hopefully!
 -Replaced custom path in Write Application with the choice of adding to the Public folder or the User's documents folder.
 -Added Delete application, this can only be used with an administrator account, default on the system as "adm1n"
 -Added to reddit on 4/23/2020
+
+0.0.8 - Started: 4/23/2020 Release: 
+-Added startup sound, custom bootup sounds can be added by replacing the 'startup.wav' in system_scramble.
+-Removed reboot command temporarily due to bugs.
+-Created a github for the SamiOS Project: https://github.com/Honesttt/SamiOS-Collection.
+-Added ASCII logo along with the startup sound.
+-Created "Splash Text" with a total of 8 Possible text possibilities!
